@@ -12,3 +12,17 @@ Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+
+Reviewer 1: 
+The code ran as intended as far as I could tell. The pictures didn't show up but that's because I just copied and pasted the app.js file, instead of importing it.
+I attempted to import it to see the pictures however it wasn't working for me at the time. It looks to me like the pictures were inserted into the code correctly though.
+
+There were two windows, both following the guidelines, the first page being a mini business card and the second page being a mini portfolio.
+
+The navigation between the two windows worked, there were two tabs along the bottom, nicely arranged with icons and everything, they worked as intended and did navigate between both windows.
+
+I couldn't find any errors in the code regarding functionality, it worked exactly the way I would assume it should.
+
+I ran it in an iphone 6 emulator and an ipad 2 emulator, it didn't scale, however it looked really good on the smaller screen.
+On the larger screen it didn't look bad by any means, the text was just a little smaller. 
+I do not have a solution for scaling the text as it was something I struggled with for this project also. 
